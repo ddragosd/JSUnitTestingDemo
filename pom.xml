@@ -13,6 +13,7 @@
         <browserPath>open</browserPath>
     </properties>
 
+
     <build>
         <plugins>
             <plugin>
