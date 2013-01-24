@@ -85,7 +85,7 @@
         </repository>
         <repository>
             <id>watt-releases</id>
-            <url>http://watt.at:8080/nexus/content/groups/public</url>
+            <url>http://nexus.crestin.tv/nexus/content/groups/public</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
@@ -98,7 +98,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>watt-releases</id>
-            <url>http://watt.at:8080/nexus/content/groups/public</url>
+            <url>http://nexus.crestin.tv/nexus/content/groups/public</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
